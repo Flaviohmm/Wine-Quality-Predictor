@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ## Execute o script principal:
 
 ```bash
-    python codigo.py
+python codigo.py
 ```
 ## Resultados
 
